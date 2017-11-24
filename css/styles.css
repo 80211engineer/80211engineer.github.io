@@ -1,0 +1,111 @@
+
+
+body{
+
+
+
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+h2 {
+
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+
+div.container1 {
+font-family: fantasy;
+font-style: italic;
+padding: 26px;
+font-size: 22px;
+color: #7dc410.
+
+}
+
+.container2 {
+
+
+position: absolute;
+background-color: #87CEFA;
+
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #7dc410.
+}
+
+ul {
+  line-height: 40px;
+}
+
+.MasterTitle {
+  font-size: 40px;
+  font-style: oblique;
+  font-family: fantasy;
+  text-align: center;
+  color: #f7325e
+}
+
+.SecondTitle {
+  font-size: 30px;
+  font-style: oblique;
+  text-align: center;
+  color: #f7325e
+}
+
+.copyright {
+  font-size: 10px;
+  font-style:normal;
+  text-align: center;
+  color: #000000
+}
+
+.tropical {
+  font-size: 30px;
+  font-style: oblique;
+  align-self: center;
+  color: #000000
+}
+
+.popular {
+  font-size: 30px;
+  font-style: italic;
+  align-self: center;
+  color: #000000
+  text-align: center;
+  align: center;
+}
+
+.area1{
+  background-image: url('beach1.jpg')
+  background: url('beach1.jpg')
+  width:auto;
+  height:120px;
+
+  background: linear-gradient(white, #AED6F1 );
+  background-repeat: repeat-y; /* for vertical repeat */
+  background-repeat: repeat-x; /* for horizontal repeat */
+  font-family: fantasy;
+  font-style: italic;
+  font-weight: lighter;
+  font-sh2 {
+
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+
+.table{
+  align: center;
+}
