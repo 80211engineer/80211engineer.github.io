@@ -5,7 +5,8 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: #E5E7E9;
+  background-color: #E5E7E9;
 }
 
 h1 {
@@ -140,6 +141,13 @@ h1 {
      font-family: fantasy;
      font-size: 40px;
      text-shadow: 1px 2px #000000;
+
+  }
+
+  #mypic{
+    width: 80%;
+  height: 90%;
+  text-shadow: 4px 4px #000000;
 
   }
 
